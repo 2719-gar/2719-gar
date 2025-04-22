@@ -1,0 +1,10 @@
+Introduction:-
+This project performs exploratory data analysis (EDA) and insights extraction on a dataset designed to support recommendation system logic. 
+The aim is to uncover patterns in user behavior, product interactions, and build a foundation for future collaborative or content-based filtering systems.
+
+## 🔧 Tools & Technologies Used
+
+- Python  
+- Pandas, Numpy  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
