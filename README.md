@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2719-gar
-👋 Hi, I’m Ace (@2719-gar)  
+👋 Hi, I’m Garima Jain (@2719-gar)  
 📊 Aspiring Data Analyst and business analyst | Python | SQL | Power BI | Tableau
 
 - 👀 I’m interested in data storytelling, dashboard design, and solving real business problems.
